@@ -11,7 +11,7 @@ Nosso objetivo é levar experiências únicas para nossos usuários por meio de 
 
 ---
 
-  <img align='right' src="https://i.imgur.com/FGXnSlj.png" title="I AM THE STORM THAT'S APPROACHING"/>
+  <img align='center' src="https://i.imgur.com/FGXnSlj.png" title="I AM THE STORM THAT'S APPROACHING"/>
 <br>
 
 
