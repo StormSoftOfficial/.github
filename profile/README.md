@@ -1,6 +1,6 @@
 # **Storm Soft Corporation**
 
-> Gamers never die. They respawn.
+> Gamers never die. They respawn.<br>
 > We are the Storm that is approaching... 
 
 ---
@@ -11,9 +11,9 @@ Nosso objetivo é levar experiências únicas para nossos usuários por meio de 
 
 ---
 
-<div style="display: flex; justify-content: center;">
+<center>
   <img src="https://i.imgur.com/FGXnSlj.png" title="source: imgur.com" />
-</div>
+</center>
 <br>
 
 <p  align="center">
