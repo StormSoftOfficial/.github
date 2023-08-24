@@ -11,9 +11,10 @@ Nosso objetivo é levar experiências únicas para nossos usuários por meio de 
 
 ---
 
-  <img align='center' src="https://i.imgur.com/FGXnSlj.png" title="I AM THE STORM THAT'S APPROACHING"/>
+  <img align='right' src="https://i.imgur.com/FGXnSlj.png" title="I AM THE STORM THAT'S APPROACHING"/>
 <br>
----
+
+
 <p  align="center">
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>
