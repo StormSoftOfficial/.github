@@ -63,7 +63,7 @@ Atuar com diligência, transparência e respeito, visando sempre a segurança e 
 ### ➤ Nosso time:
 Chefe | Chefe de Designer | Map Designer | Programador
 ------|-------------------|--------------|------------
-![images/team_icons/maxwel_o_chefe|*|*|*|
+![images/team_icons/maxwel_o_chefe]|*|*|*|
 
 ### ➤ Contacts:
 
