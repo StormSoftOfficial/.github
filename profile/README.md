@@ -1,19 +1,18 @@
 # **Storm Soft Corporation**
 
-# Gamers never die. They respawn.
-
-### ➤ We are the Storm that is approaching... 
+> Gamers never die. They respawn.
+> We are the Storm that is approaching... 
 
 ---
 
 <p align='center'>
-  This corporation was developed recently by the subject of PP III on the technical IT course in IFCE. Our objective is to develop
-  the best experience, and stories that only videogames can convey.</p>
+ Organização criada na disciplina de Práticas Profissionais III no curso técnico intergrado em Informática do IFCE campus Fortaleza.
+Nosso objetivo é levar experiências únicas para nossos usuários por meio de nossas obras.</p>
 
 ---
 
 <div style="display: flex; justify-content: center;">
-  <a href="https://imgur.com/FGXnSlj"><img src="https://i.imgur.com/FGXnSlj.png" title="source: imgur.com" /></a>
+  <img src="https://i.imgur.com/FGXnSlj.png" title="source: imgur.com" />
 </div>
 <br>
 
@@ -47,20 +46,21 @@
 
 ---
 
-### ➤ Mission, Vision and Values
+### ➤ Missão, Visão e Valores
 
-<h3> Mission: </h3> 
-  <p> Bring unique, immersive and reflective life-changing experiences, that changes
-  people's view of society and its reality through interactive stories and
+<h3> Missão: </h3> 
+  <p> Traga experiências únicas, imersivas e reflexivas de mudança de vida, que mudem
+  a visão das pessoas sobre a sociedade e sua realidade por meio de histórias interativas e
   audiovisual. </p>
   
-<h3> Vision: </h3>
- <p> Develop games that use audiovisual resources to the maximum in order to pass in the best possible way
-  the message and purpose of the work in question that lead people to reflect in their daily lives. </p>
+<h3> Visão: </h3>
+ <p> Desenvolver jogos que utilizem ao máximo os recursos audiovisuais para passar da melhor maneira possível
+  a mensagem e o propósito da obra em questão que levam as pessoas a refletirem no seu dia a dia. </p>
 
-<h3> Values: </h3>
-  <p> Act with diligence, transparency and respect, always aiming for the safety and well-being of your customers and our employees.
-  You will never compromise your company. </p>
+<h3> Valores: </h3>
+  <p> 
+Atuar com diligência, transparência e respeito, visando sempre a segurança e o bem-estar de seus clientes e de nossos colaboradores.
+  Você nunca comprometerá sua empresa. </p>
 
 ### ➤ Contacts:
 
