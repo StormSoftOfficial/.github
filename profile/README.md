@@ -61,9 +61,17 @@ Atuar com diligência, transparência e respeito, visando sempre a segurança e 
 
   
 ### ➤ Nosso time:
-    Chefe | Chefe de Designer | Map Designer | Programador
-    ------|-------------------|--------------|------------
-    !()[]
+<table>
+ <tr>
+  <th> <b> O Chefe </b> </th>
+  <th> <b> O Designer </b> </th>
+  <th> <b> O Map Designer </b> </th>
+ </tr>
+ <tr>
+  <td> <img src='https://i1.sndcdn.com/avatars-vZ5CyGYMb6mxyrC9-fIRXhw-t500x500.jpg' width='150px' height='150px'/> <br> <p align='center'> Maxwel Gomes </p></td>
+ </tr>
+  
+</table>
 
 ### ➤ Contacts:
 
