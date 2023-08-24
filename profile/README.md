@@ -59,6 +59,12 @@ Nosso objetivo é levar experiências únicas para nossos usuários por meio de 
 Atuar com diligência, transparência e respeito, visando sempre a segurança e o bem-estar de seus clientes e de nossos colaboradores.
   Você nunca comprometerá sua empresa. </p>
 
+  
+### ➤ Nosso time:
+    Chefe | Chefe de Designer | Map Designer | Programador
+    ------|-------------------|--------------|------------
+    !()[]
+
 ### ➤ Contacts:
 
 <ul>
