@@ -66,9 +66,13 @@ Atuar com diligência, transparência e respeito, visando sempre a segurança e 
   <th> <b> O Chefe </b> </th>
   <th> <b> O Designer </b> </th>
   <th> <b> O Map Designer </b> </th>
+  <th> <b> O Programador </b> </th>
  </tr>
  <tr>
   <td> <img src='profile/images/team_icons/maxwel_o_chefejpeg.jpeg' width='150px' height='150px'/> <br> <p align='center'> Maxwel Gomes </p></td>
+  <td> <img src='profile/images/team_icons/maxwel_o_chefejpeg.jpeg' width='150px' height='150px'/> <br> <p align='center'> Gabriel Dext </p></td>
+  <td> <img src='profile/images/team_icons/maxwel_o_chefejpeg.jpeg' width='150px' height='150px'/> <br> <p align='center'> Antonio Silvestre </p></td>
+  <td> <img src='profile/images/team_icons/maxwel_o_chefejpeg.jpeg' width='150px' height='150px'/> <br> <p align='center'> Raul Braga </p></td>
  </tr>
   
 </table>
