@@ -12,7 +12,7 @@ Nosso objetivo é levar experiências únicas para nossos usuários por meio de 
 ---
 
 <center>
-  <img src="https://i.imgur.com/FGXnSlj.png" title="I AM THE STORM THAT'S APPROACHING" width=300 height=280/>
+  <img src="https://i.imgur.com/FGXnSlj.png" title="I AM THE STORM THAT'S APPROACHING" width=725 height=400/>
 </center>
 <br>
 
