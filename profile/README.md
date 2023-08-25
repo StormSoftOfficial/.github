@@ -13,6 +13,7 @@
  Organização criada na disciplina de Práticas Profissionais III no curso técnico intergrado em Informática do IFCE campus Fortaleza.
 Nosso objetivo é levar experiências únicas para nossos usuários por meio de nossas obras.</p>
 
+---
 ### ➤ Ferramentas utilizadas
 <p  align="center">
 
@@ -57,8 +58,9 @@ Nosso objetivo é levar experiências únicas para nossos usuários por meio de 
   <p> 
 Atuar com diligência, transparência e respeito, visando sempre a segurança e o bem-estar de seus clientes e de nossos colaboradores.
   Você nunca comprometerá sua empresa. </p>
-
   
+---
+
 ### ➤ Nosso time:
 <table>
  <tr>
@@ -76,6 +78,7 @@ Atuar com diligência, transparência e respeito, visando sempre a segurança e 
   
 </table>
 
+---
 ### ➤ Contatos:
 
 <ul>
