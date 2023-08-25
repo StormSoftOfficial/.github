@@ -63,6 +63,8 @@ Atuar com diligência, transparência e respeito, visando sempre a segurança e 
 ---
 
 ### ➤ Nosso time:
+
+<center>
 <table>
  <tr>
   <th> <b> O Chefe </b> </th>
@@ -76,8 +78,8 @@ Atuar com diligência, transparência e respeito, visando sempre a segurança e 
   <td> <img src='profile/images/team_icons/maxwel_o_chefejpeg.jpeg' width='150px' height='150px'/> <br> <p align='center'> Antonio Silvestre </p></td>
   <td> <img src='profile/images/team_icons/O programador.jpg' width='150px' height='150px'/> <br> <p align='center'> Raul Braga </p></td>
  </tr>
-  
 </table>
+</center>
 
 ---
 ### ➤ Contatos:
