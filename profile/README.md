@@ -76,7 +76,7 @@ Atuar com diligência, transparência e respeito, visando sempre a segurança e 
   
 </table>
 
-### ➤ Contacts:
+### ➤ Contatos:
 
 <ul>
   <li> <b>E-mail:</b> storm.soft.corp@gmail.com </li>
