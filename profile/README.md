@@ -63,7 +63,13 @@ Atuar com diligência, transparência e respeito, visando sempre a segurança e 
 ---
 
 ### ➤ Nosso time:
-<table style='margin-left: auto, margin-right: auto'>
+<table>
+  <style>
+    table {
+      margin-left: auto;
+      margin-right: auto;
+      }
+  </style>
  <tr>
   <th> <b> O Chefe </b> </th>
   <th> <b> O Designer </b> </th>
