@@ -5,14 +5,13 @@
 
 ---
 
+  <img align='center' src="https://i.imgur.com/FGXnSlj.png" title="I AM THE STORM THAT'S APPROACHING"/>
+<br>
+
+---
 <p align='center'>
  Organização criada na disciplina de Práticas Profissionais III no curso técnico intergrado em Informática do IFCE campus Fortaleza.
 Nosso objetivo é levar experiências únicas para nossos usuários por meio de nossas obras.</p>
-
----
-
-  <img align='center' src="https://i.imgur.com/FGXnSlj.png" title="I AM THE STORM THAT'S APPROACHING"/>
-<br>
 
 ### ➤ Ferramentas utilizadas
 <p  align="center">
