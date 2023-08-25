@@ -63,9 +63,7 @@ Atuar com diligência, transparência e respeito, visando sempre a segurança e 
 ---
 
 ### ➤ Nosso time:
-
-<center>
-<table>
+<table style='margin-left: auto, margin-right: auto'>
  <tr>
   <th> <b> O Chefe </b> </th>
   <th> <b> O Designer </b> </th>
@@ -79,7 +77,6 @@ Atuar com diligência, transparência e respeito, visando sempre a segurança e 
   <td> <img src='profile/images/team_icons/O programador.jpg' width='150px' height='150px'/> <br> <p align='center'> Raul Braga </p></td>
  </tr>
 </table>
-</center>
 
 ---
 ### ➤ Contatos:
