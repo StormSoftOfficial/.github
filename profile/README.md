@@ -72,10 +72,10 @@ Atuar com diligência, transparência e respeito, visando sempre a segurança e 
   <th> <b> O Programador </b> </th>
  </tr>
  <tr>
-  <td> <img src='team_icons/maxwel_o_chefe.jpeg' width='150px' height='150px'/> <br> <p align='center'> Maxwel Gomes </p></td>
-  <td> <img src='team_icons/o designer.jpeg' width='150px' height='150px'/> <br> <p align='center'> Gabriel Dext </p></td>
-  <td> <img src='team_icons/o_mapper.jpeg' width='150px' height='150px'/> <br> <p align='center'> Antonio Silvestre </p></td>
-  <td> <img src='team_icons/O programador.jpg' width='150px' height='150px'/> <br> <p align='center'> Raul Braga </p></td>
+  <td> <img src='/profile/images/team_icons/maxwel_o_chefe.jpeg' width='150px' height='150px'/> <br> <p align='center'> Maxwel Gomes </p></td>
+  <td> <img src='/profile/images/team_icons/o designer.jpeg' width='150px' height='150px'/> <br> <p align='center'> Gabriel Dext </p></td>
+  <td> <img src='/profile/images/team_icons/o_mapper.jpeg' width='150px' height='150px'/> <br> <p align='center'> Antonio Silvestre </p></td>
+  <td> <img src='/profile/images/team_icons/O programador.jpg' width='150px' height='150px'/> <br> <p align='center'> Raul Braga </p></td>
  </tr>
 </table>
 </div>
